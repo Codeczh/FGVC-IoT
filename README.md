@@ -1,6 +1,6 @@
 Introduction
 ------------
-This is the source code for our paper **Deep Denoising Network for Fine-Grained Visual Recognition**
+This is the source code for our paper **Robust Fine-Grained Visual Recognition with Images Based on Internet of Things**
 
 Network Architecture 
 --------------------
